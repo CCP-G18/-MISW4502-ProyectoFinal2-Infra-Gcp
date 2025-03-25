@@ -1,6 +1,2 @@
-*.tfstate
-*.tfstate.backup
+credentials.json
 .terraform/
-terraform.tfvars
-google-credentials.json
-.terraform.lock.hcl
